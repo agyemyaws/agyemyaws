@@ -13,12 +13,12 @@
 
 - 📫 How to reach me **agyemannana00@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/NanaYawAgyema17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NanaYawAgyema17" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nana-yaw-agyeman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nana Yaw Agyeman" height="30" width="40" /></a>
-<a href="https://instagram.com/agyem_yaws" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@agyem_yaws" height="30" width="40" /></a>
-</p>
+<h3 align="left">Key Experience:</h3>
+
+- Production ML pipelines and ETL systems at scale
+- Cloud infrastructure (Azure, AWS)
+- REST APIs and backend development
+- Team leadership and cross-functional collaboration
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -40,6 +40,13 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agyemyaws&show_icons=true&locale=en&layout=compact" alt="agyemyaws" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/NanaYawAgyema17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NanaYawAgyema17" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nana-yaw-agyeman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nana Yaw Agyeman" height="30" width="40" /></a>
+<a href="https://instagram.com/agyem_yaws" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@agyem_yaws" height="30" width="40" /></a>
+</p>
 
 
 
