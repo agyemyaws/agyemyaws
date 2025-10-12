@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/NanaYawAgyema17" target="blank"><img src="https://img.shields.io/twitter/follow/NanaYawAgyema17?logo=twitter&style=for-the-badge" alt="NanaYawAgyema17" /></a> </p>
 
-- 🔭 I'm currently pursuing my MSc in Computer Science at Anglia Ruskin University, Cambridge
+- 🎓 MSc in Computer Science, Anglia Ruskin University, Cambridge (Completed September 2025)
 
-- 🌱 I'm currently working on LLMs, RAG Systems, and Machine Learning in Finance
+- 👨‍💼 Open to opportunities: Software Engineering | Data Science | Data Engineering | ML Engineering
 
-- 🏆 Winner of AfricaBuildsAI Hackathon 2024
+- 🏆 Winner of AfricaBuildsAI Hackathon 2024 (AI for sustainable cocoa yield prediction)
 
-- 💬 Ask me about Machine Learning, LLMs, Data Science, ETL Pipelines, Cloud Computing (Azure, AWS, GCP)
+- 🔍 Ask me about: Machine Learning, LLMs, RAG Systems, Data Science, ETL Pipelines, Cloud Computing (Azure, AWS, GCP), MLOps, Cybersecurity & AI
 
 - 📫 How to reach me **agyemannana00@gmail.com**
 
