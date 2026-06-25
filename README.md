@@ -1,53 +1,119 @@
-<h1 align="center">Hi 👋, I'm Nana Yaw Agyeman</h1>
-<h3 align="center">A Data Scientist and Software Engineer.</h3>
+<h1 align="center">Hi, I'm Nana Yaw Agyeman 👋</h1>
 
-<p align="left"> <a href="https://twitter.com/NanaYawAgyema17" target="blank"><img src="https://img.shields.io/twitter/follow/NanaYawAgyema17?logo=twitter&style=for-the-badge" alt="NanaYawAgyema17" /></a> </p>
+<h3 align="center">
+AI Engineer | Machine Learning Engineer | Data Engineer | Data Scientist
+</h3>
 
-- 🎓 MSc in Computer Science, Anglia Ruskin University, Cambridge (Completed September 2025)
-
-- 👨‍💼 Open to opportunities: Software Engineering | Data Science | Data Engineering | ML Engineering
-
-- 🏆 Winner of AfricaBuildsAI Hackathon 2024 (AI for sustainable cocoa yield prediction)
-
-- 🔍 Ask me about: Machine Learning, LLMs, RAG Systems, Data Science, ETL Pipelines, Cloud Computing (Azure, AWS, GCP), MLOps, Cybersecurity & AI
-
-- 📫 How to reach me **agyemannana00@gmail.com**
-
-<h3 align="left">Key Experience:</h3>
-
-- Production ML pipelines and ETL systems at scale
-- Cloud infrastructure (Azure, AWS)
-- REST APIs and backend development
-- Team leadership and cross-functional collaboration
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="powerbi" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p> </a>
+<p align="center">
+  Building LLM applications, RAG systems, data pipelines, analytics systems and production-ready ML solutions.
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agyemyaws&show_icons=true&locale=en&layout=compact" alt="agyemyaws" /></p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/NanaYawAgyema17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NanaYawAgyema17" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nana-yaw-agyeman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nana Yaw Agyeman" height="30" width="40" /></a>
-<a href="https://instagram.com/agyem_yaws" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@agyem_yaws" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:agyemannana00@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/nana-yaw-agyeman">LinkedIn</a> •
+  <a href="https://www.nanayawagyeman.com/">Portfolio</a>
 </p>
 
+---
 
+## About Me
 
+I am an AI, Machine Learning and Data Engineer with experience across **LLM applications, RAG systems, data science, data analytics, cloud-based AI workflows, model evaluation and software engineering**.
 
+I recently completed an **MSc in Computer Science with Distinction** at Anglia Ruskin University, Cambridge. My work focuses on turning AI and data ideas into working systems using Python, SQL, Azure, FastAPI, Docker, Databricks and modern machine learning tools.
+
+I am open to opportunities in:
+
+- AI Engineering
+- Machine Learning Engineering
+- Data Engineering
+- Generative AI / LLM Engineering
+- Applied Data Science
+- AI Testing and Evaluation
+
+---
+
+## Technical Skills
+
+**AI & Machine Learning:** LLMs, RAG, LangChain, LangSmith, Hugging Face, SHAP, LIME, LightGBM, XGBoost, Random Forest, CNNs, BiLSTM  
+
+**Data Engineering & Analytics:** Python, SQL, Databricks, Apache Airflow, ETL pipelines, Power BI, BigQuery  
+
+**Cloud & MLOps:** Azure, Azure OpenAI, Azure ML, Azure Cosmos DB, Azure Blob Storage, AWS, Google Cloud, Docker, MLflow, GitHub Actions  
+
+**Software Engineering:** FastAPI, Django REST Framework, REST APIs, JavaScript/TypeScript, React, PostgreSQL, MySQL, MongoDB  
+
+---
+
+## Featured Projects
+
+### LLM-Based Legacy Code Translation System  
+**Python, Multi-Agent LLMs, RAG, Claude/Ollama, C#, .NET 8**  
+
+Built an AI-assisted VB6-to-C# migration pipeline using specialised LLM agents, dependency mapping, retrieval-enhanced generation, and validation workflows.
+
+[View Project](https://github.com/agyemyaws/legacyvb6codetocsharp)
+
+---
+
+### LLM Bank Analyst  
+**Python, FastAPI, Streamlit, LangChain, LangSmith, Hugging Face, MySQL**  
+
+Developed an LLM-powered banking recommendation system using customer and product data.
+
+[View Project](https://github.com/agyemyaws/llm_bank_analyst)
+
+---
+
+### Data Pipeline with Airflow and AWS  
+**Python, Apache Airflow, AWS S3, yfinance, ETL**  
+
+Built an Airflow-orchestrated ETL pipeline for financial market data.
+
+[View Project](https://github.com/agyemyaws/data-pipeline-with-airflow)
+
+---
+
+### Together Culture CRM Platform  
+**Django REST Framework, React, MySQL, REST APIs**  
+
+Led backend development for a CRM platform supporting member profiles, membership tiers, event tracking, and digital content management.
+
+[View Project](https://github.com/agyemyaws/together-culture-crm)
+
+---
+
+## Research & Applied AI
+
+### SecuraNext: Explainable Hybrid Edge-Cloud Intrusion Detection  
+
+Worked as a Machine Learning Research Assistant on an explainable AI cybersecurity system for SME network security.
+
+- Benchmarked **120 ML/deep learning model configurations**
+- Used CICIDS2017 and CICIDS2018 datasets
+- Evaluated LightGBM, XGBoost, Random Forest, 1D-CNN and BiLSTM
+- Applied SHAP and LIME explainability
+- Built Dockerised FastAPI inference components
+
+[View Poster](https://drive.google.com/file/d/1-Hl6kIHoa1KIT9PWVSH7fxnqEA41fhaX/view)
+
+---
+
+## Publications & Achievements
+
+- **AfricaBuildsAI Hackathon Winner** — led a team building an AI model for sustainable cocoa yield prediction  
+- **SecuraNext Poster Presentation** — Cambridge Wireless Trustworthy AI event, 2026  
+- **Published Paper:** Comparative Analyses of DWDM and CWDM in Long-Haul Optical Data Transmission  
+- **Dean of Engineering Sciences Award** — University of Ghana  
+
+---
+
+## Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,django,fastapi,docker,azure,aws,postgres,mysql,mongodb,git,github,linux" />
+</p>
+
+Additional tools: `Databricks` `Azure OpenAI` `Azure Cosmos DB` `Apache Airflow` `MLflow` `LangChain` `LangSmith` `Hugging Face` `Power BI` `BigQuery` `ChromaDB` `Pinecone`
+
+---
